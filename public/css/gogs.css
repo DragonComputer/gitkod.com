@@ -878,6 +878,11 @@ footer .ui.language .menu {
 .home .logo {
   margin-bottom: 20px;
 }
+
+.logo > img {
+  max-height: 350px;
+}
+
 .home .hero h1 {
   font-size: 4.5em;
 }
